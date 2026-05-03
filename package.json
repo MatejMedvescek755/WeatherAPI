@@ -1,0 +1,27 @@
+{
+  "name": "weatherapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatejMedvescek755/WeatherAPI.git"
+  },
+  "keywords": [
+    "weather",
+    "api"
+  ],
+  "author": "Matej Medvescek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatejMedvescek755/WeatherAPI/issues"
+  },
+  "homepage": "https://github.com/MatejMedvescek755/WeatherAPI#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
